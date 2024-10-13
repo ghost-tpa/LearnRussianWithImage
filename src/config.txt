@@ -1,0 +1,6 @@
+FONT=Times New Roman= Шрифт
+FONT_SIZE=18= Размер букв
+DATA_FILE_PATH=img_ans_encrypted.txt= Где храниться слова (в нем хранятся название фото и слова)
+IMG_FILE_PATH=lesson1= Где хранится фото соответствующие словом
+RESULT_FILE_PATH=result= Где хотите хранить результатов слушателей
+NUM_QUESTION=5= Число вопросов на тест
